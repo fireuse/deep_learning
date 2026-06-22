@@ -12,3 +12,5 @@ wheels/
 .idea
 dataset/*.txt
 
+outputs/
+REPORT.md
